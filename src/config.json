@@ -1,0 +1,18 @@
+{
+    "APP_NAME": "Mi Aplicación",
+    "APP_PORT": 3000,
+    "APP_LANGUAGE": "es",
+    "APP_HOST":"localhost",
+    "DB_NAME":"CS_ERP",
+    "DB_USER":"diego",
+    "DB_PASS":"pass1234",
+    "database": {
+        "host": "localhost",
+        "user": "diego",
+        "password": "pass1234",
+        "database": "CS_ERP"
+      },
+    "theme":"dark"  
+
+  }
+  

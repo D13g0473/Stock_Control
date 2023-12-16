@@ -1,0 +1,38 @@
+{
+  "menuItems": [
+    {
+      "label": "Home",
+      "href": "../home/index.html"
+    },
+    {
+      "label": "Clintes",
+      "items": [
+        {
+          "label": "Lista de clientes",
+          "href": "../client/client_index.html"
+        },
+        {
+          "label": "Crear",
+          "href": "../client/client_create.html"
+        }
+      ]
+    },
+    {
+      "label": "Crear Producto",
+      "href": "../product/create.html"
+    },
+    {
+      "label": "Transacciones",
+      "items": [
+        {
+          "label": "Vender",
+          "href": "../transaction/sales.html"
+        },
+        {
+          "label": "Comprar",
+          "href": "../transaction/buys.html"
+        }
+      ]
+    }
+  ]
+}

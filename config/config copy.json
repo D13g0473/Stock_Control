@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "diego",
+    "password": "pass1234",
+    "database": "CS_ERP",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "diego",
+    "password": "pass1234",
+    "database": "CS_ERP",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "diego",
+    "password": "pass1234",
+    "database": "CS_ERP",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
