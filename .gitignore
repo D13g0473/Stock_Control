@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Node.js
+node_modules/
+package-lock.json
+.gitignore
+package.json
+config/config.json
+package-lock.json
+package.json
+node_modules/@types/validator/package.json
+node_modules/mysql2/package.json
+node_modules/electron/dist/electron

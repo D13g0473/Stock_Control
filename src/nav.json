@@ -1,0 +1,27 @@
+{
+    "menuItems": [
+      {
+        "label": "Home",
+        "href": "#"
+      },
+      {
+        "label": "Clintes",
+        "items": [
+          {
+            "label": "Lista de clientes",
+            "href": "../client/client_index.html"
+          },
+          {
+            "label": "Crear",
+            "href": "../client/client_create.html"
+          }
+        ]
+      },
+      {
+        "label": "Disabled",
+        "href": "#",
+        "disabled": true
+      }
+    ]
+  }
+  
